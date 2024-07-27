@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "name": "WOOL AND SILK MARTINI-FIT TUXEDO SUIT",
+        "price": "$ 4,195",
+        "imageUrl": "https://i.hizliresim.com/bnfmgz4.png"
+    },
+    {
+        "id" : 2,
+        "name": "PRINTED JACQUARD HOLDALL",
+        "price": "$ 2,495",
+        "imageUrl": "https://i.hizliresim.com/irbpe8u.png"
+    },
+    {
+        "id" : 3,
+        "name": "COTTON T-SHIRT WITH LOGO EMBROIDERY",
+        "price": "$ 595",
+        "imageUrl": "https://i.hizliresim.com/bvfh5h3.png"
+    },
+    {
+        "id" : 4,
+        "name": "STRETCH COTTON PANTS WITH BRANDED TAG",
+        "price": "$ 825",
+        "imageUrl": "https://i.hizliresim.com/if0telh.png"
+    }
+]
