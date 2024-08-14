@@ -1,0 +1,51 @@
+{
+    "products": [
+      {
+        "id": "1001",
+        "name": "Mavi Kot Pantolon",
+        "description": "Rahat kesim, yüksek bel mavi kot pantolon",
+        "price": 199.99,
+        "currency": "TRY",
+        "category": {
+          "id": "C001",
+          "name": "Pantolon"
+        },
+        "subcategory": {
+          "id": "SC001",
+          "name": "Kot Pantolon"
+        },
+        "brand": "MarkaX",
+        "size": ["XS", "S", "M", "L", "XL"],
+        "color": "Mavi",
+        "images": [
+          "https://example.com/images/blue-jeans-1.jpg",
+          "https://example.com/images/blue-jeans-2.jpg"
+        ],
+        "stock": [
+          {
+            "size": "XS",
+            "quantity": 10
+          },
+          {
+            "size": "S",
+            "quantity": 15
+          },
+          {
+            "size": "M",
+            "quantity": 20
+          },
+          {
+            "size": "L",
+            "quantity": 18
+          },
+          {
+            "size": "XL",
+            "quantity": 12
+          }
+        ],
+        "tags": ["kot", "pantolon", "mavi", "casual"],
+        "rating": 4.5,
+        "reviewCount": 120
+      }
+    ]
+  }
